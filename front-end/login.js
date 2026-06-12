@@ -1,3 +1,6 @@
+
+// Basic Form Validation //
+
 const loginForm = document.querySelector(".user-account-form");
 const usernameInput = document.querySelector("#username");
 const passwordInput = document.querySelector("#password");
